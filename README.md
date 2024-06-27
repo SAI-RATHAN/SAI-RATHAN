@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sai-rathan&label=Profile%20views&color=0e75b6&style=flat" alt="sai-rathan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sai-rathan" alt="sai-rathan" /></a> </p>
-
 - 🔭 I’m currently working on [EventTicketing](https://github.com/SAI-RATHAN/Event_Ticketing)
 
 - 📫 How to reach me **maheshwaramrathan@gmail.com**
